@@ -1,0 +1,105 @@
+#EXTM3U
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",T Sports
+http://103.185.24.134:3001/TSportsHD/index.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Ananda TV
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/live-orgin/anandatv.stream/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",ATN Bangla
+https://tvsen5.aynaott.com/atnbangla/index.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Bangla Vision
+https://tvsen5.aynaott.com/banglavision/index.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Channel S
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/live-orgin/channels.stream/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Gazi TV
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/live-orgin/gazibdz.stream/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Green TV
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Maasranga TV
+https://tvsen5.aynaott.com/maasrangatv/index.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",My TV
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/mytv-up-off.stream/live-orgin/mytv-up-off.stream/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",NTV
+https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",T Sports
+https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Locomotion HD
+http://146.19.49.197:81/live/loco_hi/index.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Locomotion SD
+http://146.19.49.197:81/live/loco_low/index.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Locomotion (Adaptable)
+http://146.19.49.197:81/live/loco.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Anime Zone TV
+http://animezonetv.net/hls/stream.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Anime Zone TV (Opcion 2)
+http://animezonetv.com/hls/stream.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Primired HD
+https://cdn.40mediagroup.com/live/c7eds/Primired/SA_LIVE_hls_enc/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Etc TV HD
+http://45.181.122.46:8090/play/a00t
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Anime TV Brasil
+https://stmv2.painelvideocast.com.br/animetv/animetv/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Clan HD (opcion 2)
+https://d1wca51iywzyn1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-e2jakfg63mh4b/ClanES.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Infantil (Canal Extremadura) HD
+https://cdn-canalextremadura.watchity.net/fast2/master.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",En Familia HD
+https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Nickelodeon Latinoamerica HD
+http://45.181.122.46:8090/play/a00m
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Bitme HD
+http://38.44.109.41:8003/play/a00f
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",La 1 HD (opcion 2)
+https://dghxc56urunop.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zabn6k211oedh/La1ES.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",La 2 HD (opcion 2)
+https://d1yebix5w29z3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-haqfba85d1gvv/La2ES.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",TVG HD
+http://crtvg-europa.flumotion.cloud/crtvg/europa_high/chunks_dvr.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",TVG Mira Radio Galega HD
+http://crtvg-mirarg-schlive.flumotion.cloud/crtvglive/smil:channel1PRG.smil/chunklist_b2200000.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",TVG Eventos 1 HD
+http://crtvg-events1.flumotion.cloud/crtvg/events1_high/chunks_dvr.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",TVG Eventos 2 HD
+http://crtvg-events2.flumotion.cloud/crtvg/events2_high/chunks_dvr.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",TVG Eventos 3 HD
+http://crtvg-events3.flumotion.cloud/crtvg/events3_high/chunks_dvr.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Cine Oro HD
+http://38.44.109.41:8003/play/a01k
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Popular TV Cantabria HD
+https://limited12.todostreaming.es/live/ptvcantabria-livestream.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Alacanti TV HD
+https://streaming01.gestec-video.com/hls/artequatreAlacanti.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Elche 7 TV HD
+https://elche7tv.gestec-video.com/hls/canal2.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Solidaria TV Spain HD
+http://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Alegre TV HD
+https://streamunoapp.com:3149/live/alegretvlive.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Costa Rica Channel HD
+https://video0.rogohosting.com:19360/8006/8006.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Las Estrellas HD
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",TV Mas HD
+http://38.44.109.41:8003/play/a0h8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Oxi TV HD
+https://streamunoapp.com:3520/live/oxitvcanal36live.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",14 TV Catorce TV
+https://stream.haislin.com/14tv/index.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Teledeporte HD (opcion 2)
+https://d3fmp7j43g13qo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sxmelty1ewzcw/TeledeporteES.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Real Madrid Tv HD
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Bein Xtra Espanol HD
+https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",24h HD (opcion 2)
+https://dpcj1q84r586o.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zkqd2yaveiqbt/24HES.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",DW Espanol Latino
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Euronews HD
+https://euronews-live-spa-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6571/bitok/eyJzdGlkIjoiZWY1ZmE2MzktY2M3NS00NmVjLTg2ODYtMTZlYzdkNTVmMTdkIiwibWt0IjoiZXMiLCJjaCI6NjU3MSwicHRmIjo1fQ%3D%3D/26034/euronews-es.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",RT Espanol HD
+https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",RTV San Marino HD
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/smil:ch-01.smil/master.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Alto Adige TV
+https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Tsn Lecco TV
+https://189790-castr.akamaized.net/633d685a281cd401ae82c2f7/live_bc04bf70449f11ed80952100db9e5fd9/rewind-3600.m3u8
